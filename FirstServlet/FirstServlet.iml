@@ -16,7 +16,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="Tomcat 8.5.61" level="application_server_libraries" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Tomcat 11" level="application_server_libraries" />
     <orderEntry type="library" name="servlet-api" level="project">
       <CLASSES>
         <root url="file://$MODULE_DIR$/web/WEB-INF/lib/servlet-api.jar" />
