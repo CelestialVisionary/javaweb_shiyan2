@@ -4,6 +4,6 @@
     <title>Title</title>
 </head>
 <body>
-<h1><%=request.getAttribute("userName") %></h1>
+<h1><%=request.getAttribute("username") %></h1>
 </body>
 </html>
